@@ -2,3 +2,4 @@
 
 
 * Investigar
+* Capturar al capi.
